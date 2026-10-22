@@ -1,5 +1,5 @@
-﻿title: RELAY X · 逆向工程 | ai-api-proxy-list
-description: RELAY X 逆向工程 API 网关：Claude / GPT / Gemini / Grok 统一端点，QQ 邮箱注册，按量计费。附 AI API 中转站导航。
+﻿title: RELAY X · 逆向工程 | AI API Proxy 清单
+description: RELAY X 逆向工程 API 网关：国模（DeepSeek 等）+ Claude / GPT / Gemini。精选 AI LLM API 中转与代理服务清单。
 theme: jekyll-theme-cayman
 plugins:
   - jekyll-seo-tag
