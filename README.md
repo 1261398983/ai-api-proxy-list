@@ -12,9 +12,9 @@
 
 > ### 🔗 本站作者自用的中转站
 >
-> **[RELAY X](https://api.97wl.cc/)** — 一个 [OI] 兼容端点统管 Claude / GPT / Gemini / Grok。
+> **[RELAY X](https://api.97wl.cc/register)** — 一个 [OI] 兼容端点统管 Claude / GPT / Gemini / Grok。
 > 注册只需 QQ 邮箱，无需邀请码、无需外币卡；按量计费，输入输出分开计价，倍率在控制台公开。
-> [[CC] 改两行环境变量即可接入 →](https://api.97wl.cc/)
+> [[CC] 改两行环境变量即可接入 →](https://api.97wl.cc/register)
 
 
 **帮助开发者快速找到合适的 AI API 中转服务，一站式对比价格、模型与特色。**
@@ -222,7 +222,7 @@
 | 180 | 微雨API | [hu.weiyusc.top](https://hu.weiyusc.top) | 多模型 | 待确认 | - | 超时 |
 | 181 | 极速AI | [aicodee.com](https://aicodee.com) | 多模型 | 待确认 | - | 超时 |
 | 182 | 酸枝云 | [suanzhi.cloud](https://suanzhi.cloud) | 多模型 | 待确认 | - | 超时 |
-|  | 97wl | [api.97wl.cc](https://api.97wl.cc/) | DeepSeek V4 / GLM-5.2-5.3 / Kimi K2.8-K3 / MiniMax M3 / Hunyuan 3-4 | [api.97wl.cc](https://api.97wl.cc) |  |  |
+|  | 97wl | [api.97wl.cc](https://api.97wl.cc/register) | DeepSeek V4 / GLM-5.2-5.3 / Kimi K2.8-K3 / MiniMax M3 / Hunyuan 3-4 | [api.97wl.cc](https://api.97wl.cc) |  |  |
 
 ## 📚 数据来源
 
@@ -298,7 +298,7 @@ Made with ❤️ by the community
 
 ### 关于本站作者使用的中转站
 
-本站整理的中转站里，我长期自用的是 **[RELAY X](https://api.97wl.cc/)**：
+本站整理的中转站里，我长期自用的是 **[RELAY X](https://api.97wl.cc/register)**：
 
 - **双协议兼容** — [OI] 与 Anthropic 同时支持，[CC] / Codex 零改造
 - **注册门槛低** — QQ 邮箱即可，无需邀请码、无需手机号、无需外币卡
@@ -316,5 +316,5 @@ Made with ❤️ by the community
 
 [快速接入](https://1261398983.github.io/ai-api-quickstart/) · [免费站点清单](https://1261398983.github.io/ai-coding-free-sites/) · [中转导航](https://1261398983.github.io/ai-api-zhongzhuan/) · [AI 千里目](https://1261398983.github.io/aifreenav/) · [AI 编码工具](https://1261398983.github.io/awesome-ai-coding-tools/)
 
-**[RELAY X 中转站](https://api.97wl.cc/)** — QQ 邮箱注册 · 按量计费 · 输入输出分开计价
+**[RELAY X 中转站](https://api.97wl.cc/register)** — QQ 邮箱注册 · 按量计费 · 输入输出分开计价
 
